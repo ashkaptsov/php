@@ -7,3 +7,12 @@
     text-align: end;
     font-size: x-large;
 }
+
+.btn-outline-primary  {
+    background-color: blue;
+}
+
+.card {
+    background-color: black;
+
+}
